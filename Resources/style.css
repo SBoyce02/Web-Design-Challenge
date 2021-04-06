@@ -22,11 +22,19 @@ h1 {
     font-family:'Lucida Sans'}
 
 
+ p { color:teal;
+    /* Align the text to the center of its enclosing element (e.g. div). */
+    text-align: left;
+    font-family:'Lucida Sans'   
+    /* Change the size of your font to 60 pixels high*/
+    font-size: 15px}
+
+
   
   h3 {
    
     /* Change the size of your font to 60 pixels high*/
-    font-size: 30px;
+    font-size: 25px;
     /* This will color the heading font white. */
     color:teal;
     /* Align the text to the center of its enclosing element (e.g. div). */
