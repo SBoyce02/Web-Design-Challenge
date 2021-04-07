@@ -51,3 +51,7 @@ h1 {
   }
 
   #navbar-brand {color:whitesmoke;}
+
+  th {
+    text-align: left;
+  }
